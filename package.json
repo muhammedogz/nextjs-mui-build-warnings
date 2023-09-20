@@ -15,7 +15,7 @@
     "@emotion/server": "latest",
     "@emotion/styled": "latest",
     "@mui/material": "latest",
-    "next": "latest",
+    "next": "^13.5.2-canary.1",
     "react": "latest",
     "react-dom": "latest"
   },
